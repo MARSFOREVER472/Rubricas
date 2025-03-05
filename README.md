@@ -4,7 +4,7 @@
 
 ### **_La aplicación te permitirá:_**
 
-- _Crear una rúbrica con criterios y niveles de evaluación._
+- **_Crear una rúbrica con criterios y niveles de evaluación._**
   
 - Editar y eliminar criterios.
 
