@@ -16,4 +16,4 @@
   
 - **_También puedes eliminar criterios._**
   
-- **_Se usa TailwindCSS para un diseño moderno y sencillo._**
+- **_Se usa la extensión TailwindCSS para un diseño moderno y sencillo._**
