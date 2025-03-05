@@ -9,4 +9,5 @@
 - Editar y eliminar criterios.
 
 - Calificar con la rúbrica.
+  
 - Este código usa JavaScript puro y TailwindCSS para un diseño limpio y moderno.
