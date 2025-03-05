@@ -12,4 +12,4 @@
   
 - **_Este código usa puro JavaScript y TailwindCSS para un diseño limpio y moderno._**
 
-Este código permite agregar criterios a la rúbrica y definir niveles de evaluación mediante inputs editables. También puedes eliminar criterios. Se usa TailwindCSS para un diseño moderno y sencillo.
+- Este código permite agregar criterios a la rúbrica y definir niveles de evaluación mediante inputs editables. También puedes eliminar criterios. Se usa TailwindCSS para un diseño moderno y sencillo.
