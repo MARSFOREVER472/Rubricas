@@ -4,7 +4,7 @@
 
 ### **_La aplicación te permitirá:_**
 
-Crear una rúbrica con criterios y niveles de evaluación.
+- Crear una rúbrica con criterios y niveles de evaluación.
 Editar y eliminar criterios.
 Calificar con la rúbrica.
 Este código usa JavaScript puro y TailwindCSS para un diseño limpio y moderno.
