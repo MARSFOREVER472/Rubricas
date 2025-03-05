@@ -10,4 +10,4 @@
 
 - **_Calificar con la rúbrica._**
   
-- Este código usa puro JavaScript y TailwindCSS para un diseño limpio y moderno.
+- _Este código usa puro JavaScript y TailwindCSS para un diseño limpio y moderno._
