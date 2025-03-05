@@ -1,6 +1,6 @@
 # **_Rubricas_**
 
-## **_Código en JavaScript en HTML y CSS que permita crear rúbricas mediante una página web._**
+## **_Código en JavaScript en HTML y CSS que permita crear rúbricas mediante una página web_**
 
 ### **_La aplicación te permitirá:_**
 
