@@ -6,7 +6,7 @@
 
 - **_Crear una rúbrica con criterios y niveles de evaluación._**
   
-- _Editar y eliminar criterios._
+- **_Editar y eliminar criterios._**
 
 - Calificar con la rúbrica.
   
