@@ -8,6 +8,6 @@
   
 - **_Editar y eliminar criterios._**
 
-- _Calificar con la rúbrica._
+- **_Calificar con la rúbrica._**
   
 - Este código usa puro JavaScript y TailwindCSS para un diseño limpio y moderno.
