@@ -2,7 +2,7 @@
 
 ## **_Código en JavaScript en formatos HTML y CSS que permita crear rúbricas mediante una página web_**
 
-### **_Esta aplicación te permitirá:_**
+### **_Esta aplicación te permitirá a modo de ejemplo:_**
 
 - **_Crear una rúbrica con algunos criterios y niveles de evaluación._**
   
