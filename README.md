@@ -8,7 +8,7 @@
   
 - **_Editar y eliminar algunos criterios existentes._**
 
-- **_Calificar su grado de desempeño en la rúbrica._**
+- **_Calificar su grado de desempeño dentro de la rúbrica._**
   
 - **_Este código utiliza puro JavaScript y TailwindCSS para un diseño limpio y moderno._**
 
