@@ -14,6 +14,6 @@
 
 - **_También te permite agregar criterios a la rúbrica y definir algunos niveles de evaluación mediante unos inputs editables._**
   
-- **_También puedes eliminar criterios._**
+- **_También se puede eliminar criterios._**
   
 - **_Se usa la extensión TailwindCSS para un diseño moderno y sencillo._**
