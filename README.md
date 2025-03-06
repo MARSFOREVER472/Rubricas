@@ -10,7 +10,7 @@
 
 - **_Calificar en la rúbrica._**
   
-- **_Este código usa puro JavaScript y TailwindCSS para un diseño limpio y moderno._**
+- **_Este código utiliza puro JavaScript y TailwindCSS para un diseño limpio y moderno._**
 
 - **_También te permite agregar criterios a la rúbrica y definir algunos niveles de evaluación mediante unos inputs editables._**
   
