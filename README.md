@@ -6,7 +6,7 @@
 
 - **_Elaborar una rúbrica con algunos criterios y niveles de evaluación._**
   
-- **_Editar y eliminar algunos criterios existentes en la rúbrica._**
+- **_Editar y eliminar algunos criterios existentes dentro de la rúbrica._**
 
 - **_Calificar su grado de desempeño dentro de la rúbrica._**
   
